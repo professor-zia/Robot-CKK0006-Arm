@@ -32,7 +32,7 @@ http://cokoino.com/
                   |  servo1 |
          ____________________
          ____________________
-Fanctions:
+Functions:
 arm.servo1.read();         //read the servo of angle
 arm.servo2.read();
 arm.servo3.read();
